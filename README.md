@@ -1,3 +1,5 @@
 # words-to-numbers-vietnamese
 
-words to numbers vietnamese github
+convert words to numbers vietnamese
+
+chuyển đổi chữ thành số tiếng việt
